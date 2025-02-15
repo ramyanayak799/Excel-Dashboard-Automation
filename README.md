@@ -11,6 +11,7 @@ This project features an Automated Sales Dashboard created using Microsoft Excel
 ✅ Payment Method Distribution – Identify preferred payment options.
 
 📷 ![Image](https://github.com/user-attachments/assets/29883be8-9ec5-4a25-b3eb-368a81cd60f1)
+![Image](https://github.com/user-attachments/assets/778f9304-691e-4ab7-859c-11c77d6f1677)
 
 📂** Files Included**
 Cleaned Sales Data.xlsx – The dataset with structured sales data.
