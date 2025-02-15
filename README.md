@@ -10,7 +10,7 @@ This project features an Automated Sales Dashboard created using Microsoft Excel
 ✅ Order Status Breakdown – Analyze completed, pending, and canceled orders.
 ✅ Payment Method Distribution – Identify preferred payment options.
 
-📷 
+📷 ![Image](https://github.com/user-attachments/assets/29883be8-9ec5-4a25-b3eb-368a81cd60f1)
 
 📂** Files Included**
 Cleaned Sales Data.xlsx – The dataset with structured sales data.
